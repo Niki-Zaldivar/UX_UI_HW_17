@@ -1,0 +1,28 @@
+.topnav {vertical-align: top;
+text-align: right;
+color: #ffffff;
+width: auto;
+height: 30px;
+padding: 1%;
+background-color: #004D4E;
+font-size: 20px;
+float: right;}
+
+.header {height: 50px;
+        width: 50px;}
+
+.topnav a {
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: #C5E870;
+  }
+
+  .topnav a:hover {
+    background-color: #E53D14;
+    color: #ffffff;
+    height: 30px;
+  }
+
